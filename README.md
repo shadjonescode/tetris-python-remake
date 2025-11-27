@@ -41,3 +41,21 @@ Build a project you can show on GitHub as a beginner Python project.
  Lock piece into the grid when it lands.
 
  Generate next piece after locking the current one.
+
+"""Line & Score System"""
+
+ Detect full rows.
+
+ Clear one or multiple rows.
+
+ Score system:
+
+ 40 pts – 1 line
+
+ 100 pts – 2 lines
+
+ 300 pts – 3 lines
+
+ 1200 pts – 4-line clear (Tetris)
+
+ Increase game speed over time.
